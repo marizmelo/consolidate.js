@@ -9,6 +9,7 @@
   ],
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
   "devDependencies": {
+    "express": "*",
     "mocha": "*",
     "should": "*",
     "jade": "0.26.0",
@@ -36,7 +37,8 @@
     "toffee": "0.0.52",
     "atpl": ">=0.5.5",
     "templayed": ">=0.2.3",
-    "dot": "1.0.1"
+    "dot": "1.0.1",
+    "dorm": ">=0.0.5"
   },
   "main": "index",
   "scripts": {
